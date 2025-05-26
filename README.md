@@ -1,39 +1,14 @@
-# Jonas Renault's personnal website
+# M Firdaus' personal website
 
 [![Jekyll](https://img.shields.io/gem/v/jekyll?label=jekyll)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll?label=minimal%20mistakes)](https://rubygems.org/gems/minimal-mistakes-jekyll)
 
-This is the repository for my personal website. Visit it at [https://jrenault.fr](https://jrenault.fr)
+This is the repository for my personal website. Visit it at [smfirdaus.github.io](https://smfirdaus.github.io)
 
 ## Credits
 
-The website is based on Michael Rose's [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme.
+The website is inspired by [Jonas Renault](https://jrenault.fr), and based on Michael Rose's [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme.
 
-## Usage
-
-To setup an environment to run the website in development, execute
-
-```console
-bundle install
-```
-
-then
-
-```console
-bundle exec jekyll serve --incremental
-```
-
-to serve the website locally and watch changes.
-
-## Documentation
-
-Take a look at Minimal Mistakes' [documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) for setup and customization of the website.
-
-## Deploy to Github Pages
-
-This website is deployed to Github Pages using a custom [Github Actions workflow](./.github/workflows/jekyll.yml). Follow the steps [here](https://jekyllrb.com/docs/continuous-integration/github-actions/#setting-up-the-action) to setup a deployment for your github pages.
-
-I deployed my website on a custom domain; if you want to deploy it to a default github pages domain instead, delete the [CNAME](./CNAME) file, and update the `domain` and `url` variables in [_config.yml](./_config.yml).
 
 ## Google Analytics
 
