@@ -38,7 +38,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Author
 author:
   name             : "Mohd Firdaus"
-  avatar           : "/assets/images/bio-photo-x.jpg"
+  avatar           : "/assets/images/profile_photo.jpg"
   bio              : "Measurement engineer, tech enthusiast, data explorer"
   location         : "Doha, QATAR"
   links:
