@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jonas Renault
+title: "smfirdaus.github.io"
 title_separator: "|"
-name: Jonas Renault
-email: jonasrenault@gmail.com
+name: Mohd Firdaus
+email: smfirdaus@gmail.com
 description: >- # this means to ignore newlines until "domain:"
-  Jonas Renault - Senior Research Engineer, Fullstack Developer and Project Manager
-domain: jrenault.fr
+  Mohd Firdaus - Measurement engineer, tech enthusiast, data explorer
+domain: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jrenault.fr" # the base hostname & protocol for your site, e.g. http://example.com
-repository: "jonasrenault/jonasrenault.github.io"
-github_username:  jonasrenault
+url: "https://smfirdaus.github.io"
+repository: "smfirdaus/smfirdaus.github.io"
+github_username:  smfirdaus
 
 # Build settings
 # remote_theme: mmistakes/minimal-mistakes@4.26.1
@@ -44,23 +44,23 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jonasrenault@gmail.com"
+      url: "mailto:smfirdaus@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonasrenault"
+      url: "https://github.com/smfirdaus"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jonasrenault/"
+      url: "https://www.linkedin.com/in/smfirdaus/"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonasrenault"
+      url: "https://github.com/smfirdaus"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jonasrenault/"
+      url: "https://www.linkedin.com/in/smfirdaus/"
 
 
 # Defaults
