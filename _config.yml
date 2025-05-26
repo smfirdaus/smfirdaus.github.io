@@ -37,10 +37,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Author
 author:
-  name             : "Jonas Renault"
-  avatar           : "/assets/images/bio-photo-2.jpg"
-  bio              : "Senior Research Engineer & Fullstack Developer"
-  location         : "France"
+  name             : "Mohd Firdaus"
+  avatar           : "/assets/images/bio-photo-x.jpg"
+  bio              : "Measurement engineer, tech enthusiast, data explorer"
+  location         : "Doha, QATAR"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
