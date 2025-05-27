@@ -38,6 +38,7 @@ This page compiles selected technical presentations, knowledge-sharing sessions,
 
 
 ### 📘 Internal Knowledge Sharing & Technical Briefings
+{: style="font-size:.85em; color: #7a8288;"}
 ---
 
 **Refining Cargo Calculation Practices for Associated Products**  
