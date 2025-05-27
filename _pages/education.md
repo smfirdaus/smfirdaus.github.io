@@ -10,17 +10,15 @@ classes: wide
 ### Computer Science
 {: style="font-size:.85em; color: #7a8288;"}
 ---
-**Master's degree in data science**, *2018-2020*  
-UM, *Malaysia*
+**Master of Data Science (With Distinction)**, *2018-2020*  
+Universiti Malaya, *Malaysia*
+
 ### Engineering
 {: style="font-size:.85em; color: #7a8288;"}  
 
-**Bachelor in engineering**, *2015-2018*  
-UTP, *Malaysia*
+**B. Eng. (Hons) Electrical and Electronics**, *2005-2009*  
+Universiti Teknologi PETRONAS, *Malaysia*
 
-
-**Master of Data Science (With Distinction)** | University of Malaya, MALAYSIA (2020)
-**B. Eng. (Hons) Electrical and Electronics**, Universiti Teknologi PETRONAS, MALAYSIA (2009)
 
 ## 🤝🏻 Affiliation
 **Member**, Institute of Measurement and Control (24200)  
