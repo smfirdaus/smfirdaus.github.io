@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 classes: wide
 ---
-# 📚 Publications, Projects & Presentations
 
 This page compiles selected technical presentations, knowledge-sharing sessions, and contributions I've made across my career. Some materials are part of internal sharing and training, while others were presented at industry forums or professional communities.
 
