@@ -9,7 +9,6 @@ classes: wide
 
 This page compiles selected technical presentations, knowledge-sharing sessions, and contributions I've made across my career. Some materials are part of internal sharing and training, while others were presented at industry forums or professional communities.
 
----
 
 ### 📢 Presentations & Technical Talks
 {: style="font-size:.85em; color: #7a8288;"}
