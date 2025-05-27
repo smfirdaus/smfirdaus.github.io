@@ -31,3 +31,17 @@ classes: wide
 **Angsi Multiphase Flow Meters Situational Assessment**  
 *PETRONAS Upstream Measurement Workshop, 2010*
 
+### 📘 Internal Knowledge Sharing & Technical Briefings
+
+**Refining Cargo Calculation Practices for Associated Products**  
+*Internal technical and commercial knowledge sharing, 2025*
+
+**Energy Conversion Factor: Principles and Case Review**  
+*Technical briefing for multi-stakeholder audience including regulatory liaison, 2025*
+
+**Onboarding Overview: Company Assets, Portfolio & Stakeholder Map**  
+*Introductory presentation for newly appointed engineers and graduate trainees, 2024*
+
+**Fundamentals of Measurement Uncertainty**  
+*Awareness-level session for new engineers and technical graduates, 2024*
+
