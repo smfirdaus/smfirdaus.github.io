@@ -6,16 +6,28 @@ author_profile: true
 classes: wide
 ---
 
-### Computer Science
+### 📢 Presentations & Technical Talks
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**lorem**, *IEM, 2021*  
-author
-[link](https://)
+**Upstream Measurement System – Rediscover Experience, Revolutionize Approaches**  
+*PETRONAS Measurement Forum, 2021* — 🏆 *Best Presenter*
 
-**loerema**, *BEM, 2018*  
-author
-[link](https://)
+**Liquid Hydrocarbon Measurement: ‘New Table’ Implementation for Volume Correction Factor (VCF)**  
+*Hydrocarbon Measurement & Allocation Community of Practice, 2021*
 
+**Condition-Based Maintenance for Metering System**  
+*Hydrocarbon Measurement & Allocation Community of Practice, 2020*
+
+**Strategic Performance and Compliance Management of Malaysia's Upstream Metering System**  
+*PETRONAS Community of Practice, 2017*
+
+**Digitalization in MPM-POM**  
+*PETRONAS Upstream Leadership Action Day, 2016*
+
+**Liquid USM**  
+*PETRONAS Upstream Measurement Workshop, 2014*
+
+**Angsi Multiphase Flow Meters Situational Assessment**  
+*PETRONAS Upstream Measurement Workshop, 2010*
 
