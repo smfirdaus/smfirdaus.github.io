@@ -29,4 +29,4 @@ Universiti Teknologi PETRONAS, *Malaysia*
 ### Service
 {: style="font-size:.85em; color: #7a8288;"}
 ---
-**Technical Committee** on Petroleum and Gas Measurement (NSC 08/TC 1), Department of Standards Malaysia (2018-2022)
+**National Standards Committee** on Petroleum and Gas Measurement (NSC 08/TC 1), Department of Standards Malaysia (2018-2022)
