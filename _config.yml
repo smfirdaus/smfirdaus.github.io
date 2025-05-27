@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "smfirdaus.github.io"
+title: "Mohd Firdaus"
 title_separator: "|"
 name: Mohd Firdaus
 email: smfirdaus@gmail.com
@@ -33,7 +33,7 @@ github_username:  smfirdaus
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 # theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Author
 author:
