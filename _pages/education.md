@@ -5,7 +5,8 @@ permalink: /education/
 author_profile: true
 classes: wide
 ---
-
+# Education
+# Affiliation
 ### 🎓 Computer Science
 {: style="font-size:.85em; color: #7a8288;"}
 ---
