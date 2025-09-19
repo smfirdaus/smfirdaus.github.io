@@ -14,7 +14,7 @@ Alongside my technical work, I hold a Master’s in Data Science and enjoy explo
 
 This site is my digital space to share notes, ideas, and projects — ranging from flow measurement and auditing, to wellness habits and explorations in technical analysis.
 
-I’m working on being more active here after years of dormancy (hello, 2013 GitHub account!). My goal is to write and share consistently — aiming for one post a week — and to grow this space into a friendly, searchable knowledge base.
+I’m working on being more active here after years of dormancy (hello, 2013 GitHub account!). My goal is to write and share consistently and to grow this space into a friendly, searchable knowledge base.
 
 🔎 Check out my [resume](link)  
 📬 Feel free to reach out via GitHub or LinkedIn
