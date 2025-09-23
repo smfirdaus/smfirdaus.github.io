@@ -1,7 +1,7 @@
 ---
 layout: archive
 # title: "Education"
-permalink: /education/
+permalink: /edu/
 author_profile: true
 classes: wide
 ---
