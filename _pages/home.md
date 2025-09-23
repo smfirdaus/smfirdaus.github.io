@@ -4,8 +4,8 @@ permalink: /
 excerpt: "About me"
 author_profile: true
 classes: wide
-
 ---
+
 👋 Hi, I’m Firdaus
 
 I’m a Measurement Engineer with over 15 years of experience in the oil, gas, and LNG industry — ensuring precision in metering systems, calibrations, and data management across onshore and offshore operations. My background blends engineering rigor with a strong interest in data analysis, technical writing, and continuous improvement.
