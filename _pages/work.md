@@ -20,12 +20,12 @@ Led the strategy and execution of custody transfer and fiscal allocation meterin
 Pre-development of “MathQuest,” Malaysia’s first RPG-based interactive game designed to engage primary school students in Mathematics. Formulated the conceptual framework, designing game environments, and scripting initial learning modules using ActionScript object-oriented programming.  
 <i class="fas fa-plus small-grey"></i> Game Programmer  
 
-## ⚙️ Skills & Competencies
+## ⚙️ Skills & Competencies  
 <span class="small-grey"><i class="fas fa-tools" aria-hidden="true"></i> **Measurement:** Verification & calibration/certification, testing & commissioning, design standards (AGA 3/7/8/9/10, API MPMS Ch 1-23, ISO 3170/3171/5167/6974/6976/17089 for gas, liquid, sampling, composition, energy), uncertainty evaluation (Kelton), manual and procedures, audits, mismeasurement, dispensation & exemption.  
 <i class="fas fa-tools" aria-hidden="true"></i> **Application:** Analytics & dashboarding (PowerBI), data historian (PI/RTIS), data science (data analysis, machine learning).
 
 ## 🏆 Achievements
-**Asset and technical support:**
+**Asset and technical support:**  
 <i class="fas fa-minus small-grey"></i> Participated in the development, testing (FAT & SAT), and commissioning of metering systems utilizing various technologies, including ultrasonic flow meters (Sick, Elster), turbine meters (Faure Herman, Daniel), orifice meters (Daniel, Canalta), multiphase flow meters and wetgas meters, flow computers (Floboss, Omni, Solartron, FlowX, Summit, Elster), sampling system, and analyzers (gas chromatograph, moisture, hydrocarbon dewpoint, H2S, mercury).  
 <i class="fas fa-minus small-grey"></i> Authored metering calibration/validation procedures for custody transfer and allocation metering systems, as well as offloading and production allocation procedures. Contributed to the development of Malaysia Standard 2644:2020 for dynamic measurement proving systems.  
 <i class="fas fa-minus small-grey"></i> Developed and validated an in-house metering uncertainty model against Kelton and web-based applications.  
