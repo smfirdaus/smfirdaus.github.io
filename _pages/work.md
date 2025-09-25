@@ -26,9 +26,9 @@ Pre-development of “MathQuest,” Malaysia’s first RPG-based interactive gam
 
 ## 🏆 Achievements
 **Asset and technical support:**
-<i class="fas fa-minus small-grey"></i> Participated in the development, testing (FAT & SAT), and commissioning of metering systems utilizing various technologies, including ultrasonic flow meters (Sick, Elster), turbine meters (Faure Herman, Daniel), orifice meters (Daniel, Canalta), multiphase flow meters and wetgas meters, flow computers (Floboss, Omni, Solartron, FlowX, Summit, Elster), sampling system, and analyzers (gas chromatograph, moisture, hydrocarbon dewpoint, H2S, mercury).
-<i class="fas fa-minus small-grey"></i> Authored metering calibration/validation procedures for custody transfer and allocation metering systems, as well as offloading and production allocation procedures. Contributed to the development of Malaysia Standard 2644:2020 for dynamic measurement proving systems.
-<i class="fas fa-minus small-grey"></i> Developed and validated an in-house metering uncertainty model against Kelton and web-based applications.
+<i class="fas fa-minus small-grey"></i> Participated in the development, testing (FAT & SAT), and commissioning of metering systems utilizing various technologies, including ultrasonic flow meters (Sick, Elster), turbine meters (Faure Herman, Daniel), orifice meters (Daniel, Canalta), multiphase flow meters and wetgas meters, flow computers (Floboss, Omni, Solartron, FlowX, Summit, Elster), sampling system, and analyzers (gas chromatograph, moisture, hydrocarbon dewpoint, H2S, mercury).  
+<i class="fas fa-minus small-grey"></i> Authored metering calibration/validation procedures for custody transfer and allocation metering systems, as well as offloading and production allocation procedures. Contributed to the development of Malaysia Standard 2644:2020 for dynamic measurement proving systems.  
+<i class="fas fa-minus small-grey"></i> Developed and validated an in-house metering uncertainty model against Kelton and web-based applications.  
 <i class="fas fa-minus small-grey"></i> Led the creation and implementation of condition-based maintenance guidelines and pilot programs.  
 
 **Measurement audit and compliance:**
