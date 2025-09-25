@@ -11,7 +11,7 @@ classes: wide
 
 
 ### 📢 Presentations & Technical Talks
-{: style="font-size:.85em; color: #7a8288;"}
+{: style="font-size:.85em; color: #7a8288;"}  
 **Upstream Measurement System – Rediscover Experience, Revolutionize Approaches**  
 *PETRONAS Measurement Forum, 2021* — 🏆 *Best Presenter*
 
@@ -35,7 +35,7 @@ classes: wide
 
 
 ### 📘 Internal Knowledge Sharing & Technical Briefings
-{: style="font-size:.85em; color: #7a8288;"}
+{: style="font-size:.85em; color: #7a8288;"}  
 **Refining Cargo Calculation Practices for Associated Products**  
 *Internal technical and commercial knowledge sharing, 2025*
 
