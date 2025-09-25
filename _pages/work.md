@@ -26,25 +26,17 @@ Pre-development of “MathQuest,” Malaysia’s first RPG-based interactive gam
 
 ## 🏆 Achievements
 **Asset and technical support:**
-- Participated in the development, testing (FAT & SAT), and commissioning of metering systems 
-utilizing various technologies, including ultrasonic flow meters (Sick, Elster), turbine meters (Faure Herman, Daniel), orifice meters (Daniel, Canalta), multiphase flow meters and wetgas meters, flow computers (Floboss, Omni, Solartron, FlowX, Summit, Elster), sampling system, and analyzers (gas chromatograph, moisture, hydrocarbon dewpoint, H2S, mercury).
-- Authored metering calibration/validation procedures for custody transfer and allocation metering systems, as well as offloading and production allocation procedures. Contributed to the development of Malaysia Standard 2644:2020 for dynamic measurement proving systems.
-- Developed and validated an in-house metering uncertainty model against Kelton and web-based 
-applications.
-- Led the creation and implementation of condition-based maintenance guidelines and pilot 
-programs.  
+<i class="fas fa-minus small-grey"></i> Participated in the development, testing (FAT & SAT), and commissioning of metering systems utilizing various technologies, including ultrasonic flow meters (Sick, Elster), turbine meters (Faure Herman, Daniel), orifice meters (Daniel, Canalta), multiphase flow meters and wetgas meters, flow computers (Floboss, Omni, Solartron, FlowX, Summit, Elster), sampling system, and analyzers (gas chromatograph, moisture, hydrocarbon dewpoint, H2S, mercury).
+<i class="fas fa-minus small-grey"></i> Authored metering calibration/validation procedures for custody transfer and allocation metering systems, as well as offloading and production allocation procedures. Contributed to the development of Malaysia Standard 2644:2020 for dynamic measurement proving systems.
+<i class="fas fa-minus small-grey"></i> Developed and validated an in-house metering uncertainty model against Kelton and web-based applications.
+<i class="fas fa-minus small-grey"></i> Led the creation and implementation of condition-based maintenance guidelines and pilot programs.  
 
 **Measurement audit and compliance:**
-- Led measurement audits for offshore platforms and onshore terminals covering planning, site 
-assessment, desktop review, and closure tracking.
+- Led measurement audits for offshore platforms and onshore terminals covering planning, site assessment, desktop review, and closure tracking.
 - Addressed mismeasurements queries and authored numerous mismeasurement reports; reviewed and approved reports issued by operators.  
 
 **Project management & application development:**  
-<i class="fas fa-plus small-grey"></i> Formulated contracting strategies, prepared tender documents, and defined scopes of work for 
-metering projects and maintenance contracts.  
-<i class="fas fa-plus small-grey"></i> Designed and launched a web-based system to centralize measurement instrument inventory, 
-facilitate proactive monitoring of activities, and streamline compliance tracking, resulting in more
-accurate reporting.  
-<i class="fas fa-plus small-grey"></i> Coordinated the development and testing for integration of new mismeasurement module/features 
-within the production allocation system (Energy Component).
+<i class="fas fa-plus small-grey"></i> Formulated contracting strategies, prepared tender documents, and defined scopes of work for metering projects and maintenance contracts.  
+<i class="fas fa-plus small-grey"></i> Designed and launched a web-based system to centralize measurement instrument inventory, facilitate proactive monitoring of activities, and streamline compliance tracking, resulting in more accurate reporting.  
+<i class="fas fa-plus small-grey"></i> Coordinated the development and testing for integration of new mismeasurement module/features within the production allocation system (Energy Component).
 
