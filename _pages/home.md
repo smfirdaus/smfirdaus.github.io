@@ -22,3 +22,15 @@ I’m working on being more active here after years of dormancy (hello, 2013 Git
 📬 Feel free to reach out via GitHub or LinkedIn
 
 > “Curiosity is the engine of achievement.” — Ken Robinson
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- **OpenAI** for GPT-4 integration and web search capabilities
+- **Jekyll** for the static site generation framework
+- **GitHub Pages** for hosting and automation
+- Academic APIs (ORCID, Scopus, Web of Science, Semantic Scholar) for publication data
+- The academic community for inspiration and best practices
