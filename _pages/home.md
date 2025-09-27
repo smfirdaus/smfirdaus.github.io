@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+<!-- comment -->
+
 ## smfirdaus@localhost:~$ whoami
 
 👋 Hi, I’m Firdaus
