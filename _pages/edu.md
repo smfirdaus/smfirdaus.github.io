@@ -11,17 +11,16 @@ classes: wide
 ### 🎓 Computer Science
 {: style="font-size:.85em; color: #7a8288;"}  
 **Master of Data Science (With Distinction)**, *2018-2020*  
-Universiti Malaya, *Malaysia*
-Universiti Malaya, Kuala Lumpur, MALAYSIA
-- Project Research: Performance Analysis of Machine Learning Classification for Ultrasonic Flow Meter  
-- Advisor: Assoc. Prof. Dr. Maizatul Akmar Ismail
+Universiti Malaya, Malaysia  
+> *Project Research: Performance Analysis of Machine Learning Classification for Ultrasonic Flow Meter*  
+> *Advisor: Assoc. Prof. Dr. Maizatul Akmar Ismail*  
 
 ### 🎓 Engineering
 {: style="font-size:.85em; color: #7a8288;"}  
 **B. Eng. (Hons) Electrical and Electronics**, *2005-2009*  
-Universiti Teknologi PETRONAS, *Malaysia*
-- Dissertation: Small-Sized Microstrip Low-Pass Filter Using Defected Ground Structure  
-- Advisor: Prof Dr. Grant A. Ellis
+Universiti Teknologi PETRONAS, Malaysia  
+> *Dissertation: Small-Sized Microstrip Low-Pass Filter Using Defected Ground Structure*  
+> *Advisor: Prof Dr. Grant A. Ellis*  
 
 ### 🌐 Affiliation
 {: style="font-size:.85em; color: #7a8288;"}  
